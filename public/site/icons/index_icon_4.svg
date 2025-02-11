@@ -1,0 +1,15 @@
+<svg width="40" height="41" viewBox="0 0 40 41" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="SVG">
+<path id="Vector" d="M27 14.3359V8.33594C27 7.54029 26.6839 6.77723 26.1213 6.21462C25.5587 5.65201 24.7956 5.33594 24 5.33594H8C7.20435 5.33594 6.44129 5.65201 5.87868 6.21462C5.31607 6.77723 5 7.54029 5 8.33594V32.3359C5 33.1315 5.31607 33.8946 5.87868 34.4572C6.44129 35.0198 7.20435 35.3359 8 35.3359H24C24.7956 35.3359 25.5587 35.0198 26.1213 34.4572C26.6839 33.8946 27 33.1315 27 32.3359V25.3359" fill="url(#paint0_linear_996_4141)" fill-opacity="0.24"/>
+<path id="Vector_2" d="M27 14.3359V8.33594C27 7.54029 26.6839 6.77723 26.1213 6.21462C25.5587 5.65201 24.7956 5.33594 24 5.33594H8C7.20435 5.33594 6.44129 5.65201 5.87868 6.21462C5.31607 6.77723 5 7.54029 5 8.33594V32.3359C5 33.1315 5.31607 33.8946 5.87868 34.4572C6.44129 35.0198 7.20435 35.3359 8 35.3359H24C24.7956 35.3359 25.5587 35.0198 26.1213 34.4572C26.6839 33.8946 27 33.1315 27 32.3359V25.3359" stroke="#F83A3A" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_3" d="M21 21.3359V18.3359H35V21.3359H21Z" fill="#F83A3A" stroke="#F83A3A" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_4" opacity="0.32" d="M9 14.3359V11.3359H23V14.3359H9Z" fill="#F83A3A" stroke="#F83A3A" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_5" d="M20 5.33594L18 7.33594H14L12 5.33594" stroke="#F83A3A" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_996_4141" x1="16" y1="5.33594" x2="16" y2="35.3359" gradientUnits="userSpaceOnUse">
+<stop stop-color="#7000FF" stop-opacity="0"/>
+<stop offset="1" stop-color="#7000FF"/>
+</linearGradient>
+</defs>
+</svg>

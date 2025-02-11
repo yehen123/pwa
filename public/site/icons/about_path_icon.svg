@@ -1,0 +1,17 @@
+<svg width="10" height="10" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="pathfinder-trim" clip-path="url(#clip0_1045_1149)">
+<g id="pathfinder-trim_2">
+<path id="Union" fill-rule="evenodd" clip-rule="evenodd" d="M6.07143 0H1.07143C0.479695 0 0 0.479695 0 1.07143V6.07143C0 6.66316 0.479695 7.14286 1.07143 7.14286H1.96429V3.92857C1.96429 2.84373 2.84373 1.96429 3.92857 1.96429H7.14286V1.07143C7.14286 0.479695 6.66316 0 6.07143 0ZM3.92857 2.85714H8.92857C9.52029 2.85714 10 3.33684 10 3.92857V8.92857C10 9.52029 9.52029 10 8.92857 10H3.92857C3.33684 10 2.85714 9.52029 2.85714 8.92857V3.92857C2.85714 3.33684 3.33684 2.85714 3.92857 2.85714Z" fill="url(#paint0_linear_1045_1149)"/>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_1045_1149" x1="5" y1="0" x2="5" y2="10" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F83A3A"/>
+<stop offset="0.625" stop-color="#7000FF"/>
+<stop offset="1" stop-color="#F53C87"/>
+</linearGradient>
+<clipPath id="clip0_1045_1149">
+<rect width="10" height="10" fill="white"/>
+</clipPath>
+</defs>
+</svg>

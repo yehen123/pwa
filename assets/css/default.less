@@ -1,0 +1,44 @@
+// 屏蔽浏览器密码框自带的眼睛图标
+input[type='password']::-ms-reveal {
+  display: none;
+}
+@font-face {
+  // font-family: AlibabaPuHuiTi-3-55-Regular;
+  // src:
+  //   url('/public/font/AlibabaPuHuiTi-3-55-Regular/AlibabaPuHuiTi-3-55-Regular.woff2') format('woff2'),
+  //   url('/public/font/AlibabaPuHuiTi-3-55-Regular/AlibabaPuHuiTi-3-55-Regular.woff') format('woff'),
+  //   url('/public/font/AlibabaPuHuiTi-3-55-Regular/AlibabaPuHuiTi-3-55-Regular.ttf') format('truetype');
+  // font-display: swap;
+}
+::-webkit-scrollbar {
+  width: 0;
+}
+html,
+body,
+#__nuxt,
+.ui-root {
+  height: 100%;
+}
+body {
+  color: var(--th-text-color);
+  background: var(--th-bg);
+  font-family:
+    AlibabaPuHuiTi-3-55-Regular,
+    -apple-system,
+    BlinkMacSystemFont,
+    Helvetica Neue,
+    Helvetica,
+    Arial,
+    PingFang SC,
+    Hiragino Sans GB,
+    Microsoft Yahei,
+    Microsoft Jhenghei,
+    sans-serif;
+}
+
+.raise {
+  color: #f54444;
+}
+.fall {
+  color: #00a444;
+}
